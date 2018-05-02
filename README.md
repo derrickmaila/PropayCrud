@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -56,3 +57,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# PropayCrudAssessment
+>>>>>>> fb0c917ccb102b5d1e52cf17fa121ab725523441
